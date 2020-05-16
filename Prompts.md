@@ -1,7 +1,10 @@
 #### Abstract
 __artists:__
 
-#### Architecture  
+#### Architecture
+__artists:__
+* Leah Frances
+* Simon Gabriel  
 
 #### Astrophotography  
 
@@ -16,6 +19,7 @@ __Artists:__
 #### Landscape  
 __Artists:__
 * Ansel Adams
+* Kyle McDougall
 
 #### Long Exposure  
 __Artists:__
@@ -31,10 +35,15 @@ __Artists:__
 #### Panorama  
 
 #### Portrait  
+__artists:__
+* Walker Evans
 
-#### Still Life  
+#### Still Life
+  
 
-#### Street  
+#### Street
+__artists:__
+* Bill Cunningham
 
 #### Time Laps  
 
